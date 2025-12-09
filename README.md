@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Node.js / JavaScript / TypeScript, Express.js, React, MongoDB
+- **Detected Technologies:** CSS, Express.js, HTML, JavaScript, MongoDB, Node.js, React
 - **GitHub Topics:** None
 
 ---
